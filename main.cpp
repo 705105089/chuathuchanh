@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
-{
-return;
-}
+void tim_max()
+{ }
 int main()
 {
 cout << "First commit" << endl;
